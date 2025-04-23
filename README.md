@@ -14,7 +14,7 @@ Contact Info: [fill in]
 
 #### Project 1 Title
  - Project 1 Summary
- - [insert project 1 screenshot here]
+ - ![project_image_1]
  - Project 1 Report
 ***
 #### Project 2 Title
