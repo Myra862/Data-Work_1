@@ -1,4 +1,4 @@
-![banner_Image_goes_here](link to Banner Image) 
+![ banner_Image_goes_here]( link to Banner Image) 
 
 # Tamyra  Nichols
 Contact Info: TamyraM2005@icloud.com
@@ -23,7 +23,7 @@ Loyola University Maryland
 ***
 #### Project 2 Title
  - Project 2 Summary
- - [insert project 2 screenshot here]
+ - [ insert project 2 screenshot here]
  - Project 2 Report
 ***
 #### Project 3 Title
